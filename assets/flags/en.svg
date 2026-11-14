@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 16">
+  <defs>
+    <pattern id="stripe" width="24" height="2.462" patternUnits="userSpaceOnUse"><rect width="24" height="2.462" fill="#fff"/><rect width="24" height="1.231" fill="#b22234"/></pattern>
+    <pattern id="stars" width="2.2" height="2" patternUnits="userSpaceOnUse"><circle cx=".6" cy=".55" r=".27" fill="#fff"/><circle cx="1.7" cy="1.5" r=".27" fill="#fff"/></pattern>
+  </defs>
+  <rect width="24" height="16" fill="url(#stripe)"/>
+  <rect width="9.6" height="8.62" fill="#3c3b6e"/>
+  <rect width="9.6" height="8.62" fill="url(#stars)"/>
+</svg>
